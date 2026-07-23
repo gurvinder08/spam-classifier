@@ -1,2 +1,10 @@
 pandas
 pyarrow
+jupyter
+ipykernel
+matplotlib
+seaborn
+scikit-learn
+nltk
+scipy
+xgboost

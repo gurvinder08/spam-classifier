@@ -1,0 +1,335 @@
+source_folder,from,subject,body,true_label,pred_label,error_type,model
+hard_ham,Word a Day <listmanager@shagmail.com>,"WORD A DAY - ""coruscate"" - 8/20/02","                    *  WORD A DAY  *
+------------------------------------------------------------
+Do you enjoy this publication? Then give your friends a FREE 
+GIFT SUBSCRIPTION. Just click below and ",ham,spam,false_positive (ham -> spam),Naive Bayes (TF-IDF)
+hard_ham,CNET Shopper Newsletter Alerts <Online#3.19820.a5-ydZylz9lGW0yrsRR.1@newsletter.online.com>,Great deals on perfect Summer cameras! (CNET SHOPPER),"Shopper Newsletter: Alerts Live tech help NOW! April's tech award 1 million open jobs News.com: Top CIOs ZDNet: PeopleSoft July 11, 2002 From Computers4Sure Fujifilm FinePix 30i just $245! From buy.co",ham,spam,false_positive (ham -> spam),Naive Bayes (TF-IDF)
+hard_ham,"""David&TomGardner@fooladvisor.com"" <Subscriber@fooladvisor.com>",Cash Flow Doesn't Lie...Even After Today's Rally ,"You are receiving this email because you signed up to 
+receive one of our free reports. If you would prefer 
+not to receive messages of this type, please 
+unsubscribe by following the instructions at ",ham,spam,false_positive (ham -> spam),Naive Bayes (TF-IDF)
+hard_ham,CNET Delivers <Online#3.20341.24-QI_LgZARqA78CdRR.1@newsletter.online.com>,Canon USA Reseller News : July,"CNET Announcement &nbsp; &nbsp; July 18, 2002 Canon USA Reseller News : July July 2002 / Volume 2 No. 5 &nbsp; The Canon USA Reseller News&nbsp; provides resellers with monthly announcements&nbsp;on C",ham,spam,false_positive (ham -> spam),Naive Bayes (TF-IDF)
+hard_ham,All Things New England - Movie Trivia <trivia@allthingsnewengland.com>,This Weeks Movie Trivia Question from All Things New England,"Hello Friends!
+
+We hope you had a pleasant week. Last weeks trivia questions was:
+
+
+What do these 3 films have in common: One Crazy Summer, Whispers in the Dark, Moby Dick? 
+
+Answer: Nantucket Island
+",ham,spam,false_positive (ham -> spam),Naive Bayes (TF-IDF)
+easy_ham_2,Jim Whitehead <ejw@cse.ucsc.edu>,FYI: WSE 2002,"FYI, members of this list might be interested in the 4th International
+Workshop on Web Site Evolution (WSE 2002), being held October 2, 2002, in
+Montreal, Canada.
+
+http://star.itc.it/wse2002/
+
+- Jim
+
+",ham,spam,false_positive (ham -> spam),Naive Bayes (TF-IDF)
+easy_ham,khare@alumni.caltech.edu,NYTimes.com Article: Texas Pacific Goes Where Others Fear to Spend,"This article from NYTimes.com 
+has been sent to you by khare@alumni.caltech.edu.
+
+
+Texas Pacific, in addition to its multibillion dollar portfolio detailed below, actually does invest in promising new",ham,spam,false_positive (ham -> spam),Naive Bayes (TF-IDF)
+hard_ham,Gary <gary_winder@optusnet.com.au>,[MLB-WIRELESS] FW: Cisco Wireless LAN Solutions,"Cisco SystemsFYI.
+
+ (I'm not pro or anti Cisco, and I don't sell it. Just passing along info so
+that someone might find it of use)
+
+Regards,
+Gaz
+
+
+
+
+Please feel free to forward this email. Please forw",ham,spam,false_positive (ham -> spam),Naive Bayes (TF-IDF)
+spam,Vip-mail <vip@99-81.com>,未承諾広告※灼熱！出会いの広場,"<事業者>
+氏名:Vip-mail
+突然のメール失礼いたします。
+今後この広告がご不要な方はその旨を
+stop-vip@e-project-web.com
+までお送り下さい。
+
+☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+♪リッチな出会いはVip-mailで♪
+Vip-mailがハイクラスな出会いをプレゼント☆
+携帯3キャリアとPC対応の出会いサイト♪
+今までの出会いサイトに飽きた人!
+出",spam,ham,false_negative (spam -> ham),Naive Bayes (TF-IDF)
+spam_2,PHIL SWANN <swann@TVPredictions.com>,Special Report! TiVo: Now or Never?,"TVPredictions.com Newsletter (August 7, 2002)
+The #1 Newsletter on the Future of TV
+
+Hi Everyone,
+
+First of all, I want to welcome those<br>
+subscribers who are getting this newsletter<br>
+for the fir",spam,ham,false_negative (spam -> ham),Naive Bayes (TF-IDF)
+spam_2,Important Joke <reply-56446664-6@william.free4all.com>,Important,,spam,ham,false_negative (spam -> ham),Naive Bayes (TF-IDF)
+spam_2,your99@many.com,good friend nUYiIFa3s19FyqZIEEC3lLvT,,spam,ham,false_negative (spam -> ham),Naive Bayes (TF-IDF)
+spam,elane_ling@hotmail.com,[ILUG-Social] Poker for money againts real players,"Get your favorite Poker action at http://www.multiplayerpoker.net
+
+Play against real people from around the world for real money or just
+for fun.  Access one of the busiest poker rooms online.  We've ",spam,ham,false_negative (spam -> ham),Naive Bayes (TF-IDF)
+spam_2,gender4828@flashmail.com,Blue horseshoe meet me,"
+Dear Reader:
+
+We sometimes approach our analysts for their thoughts on emerging market =
+sectors we're interested in. On certain occasions, they come to us with =
+intriguing insights of certain aspec",spam,ham,false_negative (spam -> ham),Naive Bayes (TF-IDF)
+spam,"""sous1@aa.alles.or.jp""@mx2.alles.or.jp",しじみともものコラボレーション,"����������������������������
+���������������R���{���[�V����
+�����[�^�r�f�I�i�c�u�c�j����
+���������c����������������������
+�����������������I
+http://book-i.net/mutou
+���i��
+�����`���@�������c�n9�@�����",spam,ham,false_negative (spam -> ham),Naive Bayes (TF-IDF)
+spam_2,reenspring@happyman.com,[ILUG] FREE FREE FREE!,"Below is the result of your feedback form.  It was submitted by
+ (reenspring@happyman.com) on Thursday, August 8, 2002 at 08:36:27
+---------------------------------------------------------------------",spam,ham,false_negative (spam -> ham),Naive Bayes (TF-IDF)
+hard_ham,Word a Day <listmanager@shagmail.com>,"WORD A DAY - ""coruscate"" - 8/20/02","                    *  WORD A DAY  *
+------------------------------------------------------------
+Do you enjoy this publication? Then give your friends a FREE 
+GIFT SUBSCRIPTION. Just click below and ",ham,spam,false_positive (ham -> spam),Logistic Regression (TF-IDF)
+hard_ham,CNET Shopper Newsletter Alerts <Online#3.19820.a5-ydZylz9lGW0yrsRR.1@newsletter.online.com>,Great deals on perfect Summer cameras! (CNET SHOPPER),"Shopper Newsletter: Alerts Live tech help NOW! April's tech award 1 million open jobs News.com: Top CIOs ZDNet: PeopleSoft July 11, 2002 From Computers4Sure Fujifilm FinePix 30i just $245! From buy.co",ham,spam,false_positive (ham -> spam),Logistic Regression (TF-IDF)
+hard_ham,"""David&TomGardner@fooladvisor.com"" <Subscriber@fooladvisor.com>",Cash Flow Doesn't Lie...Even After Today's Rally ,"You are receiving this email because you signed up to 
+receive one of our free reports. If you would prefer 
+not to receive messages of this type, please 
+unsubscribe by following the instructions at ",ham,spam,false_positive (ham -> spam),Logistic Regression (TF-IDF)
+hard_ham,CNET Delivers <Online#3.20341.24-QI_LgZARqA78CdRR.1@newsletter.online.com>,Canon USA Reseller News : July,"CNET Announcement &nbsp; &nbsp; July 18, 2002 Canon USA Reseller News : July July 2002 / Volume 2 No. 5 &nbsp; The Canon USA Reseller News&nbsp; provides resellers with monthly announcements&nbsp;on C",ham,spam,false_positive (ham -> spam),Logistic Regression (TF-IDF)
+hard_ham,All Things New England - Movie Trivia <trivia@allthingsnewengland.com>,This Weeks Movie Trivia Question from All Things New England,"Hello Friends!
+
+We hope you had a pleasant week. Last weeks trivia questions was:
+
+
+What do these 3 films have in common: One Crazy Summer, Whispers in the Dark, Moby Dick? 
+
+Answer: Nantucket Island
+",ham,spam,false_positive (ham -> spam),Logistic Regression (TF-IDF)
+easy_ham,Martin Whelan <mwhelan@deisedesign.com>,[IIU] Viruses and Bounced Mail,"All,
+
+Is it just me or has there been a massive increase in the amount of email 
+being falsely bounced around the place? I've already received email from a 
+number of people I don't know, asking why I",ham,spam,false_positive (ham -> spam),Logistic Regression (TF-IDF)
+easy_ham_2,Jim Whitehead <ejw@cse.ucsc.edu>,FYI: WSE 2002,"FYI, members of this list might be interested in the 4th International
+Workshop on Web Site Evolution (WSE 2002), being held October 2, 2002, in
+Montreal, Canada.
+
+http://star.itc.it/wse2002/
+
+- Jim
+
+",ham,spam,false_positive (ham -> spam),Logistic Regression (TF-IDF)
+hard_ham,Gary <gary_winder@optusnet.com.au>,[MLB-WIRELESS] FW: Cisco Wireless LAN Solutions,"Cisco SystemsFYI.
+
+ (I'm not pro or anti Cisco, and I don't sell it. Just passing along info so
+that someone might find it of use)
+
+Regards,
+Gaz
+
+
+
+
+Please feel free to forward this email. Please forw",ham,spam,false_positive (ham -> spam),Logistic Regression (TF-IDF)
+spam_2,PHIL SWANN <swann@TVPredictions.com>,Special Report! TiVo: Now or Never?,"TVPredictions.com Newsletter (August 7, 2002)
+The #1 Newsletter on the Future of TV
+
+Hi Everyone,
+
+First of all, I want to welcome those<br>
+subscribers who are getting this newsletter<br>
+for the fir",spam,ham,false_negative (spam -> ham),Logistic Regression (TF-IDF)
+spam_2,Important Joke <reply-56446664-6@william.free4all.com>,Important,,spam,ham,false_negative (spam -> ham),Logistic Regression (TF-IDF)
+spam_2,your99@many.com,good friend nUYiIFa3s19FyqZIEEC3lLvT,,spam,ham,false_negative (spam -> ham),Logistic Regression (TF-IDF)
+spam,Kelly Carpelli <mbnxkelly@site-personals.com>,[ILUG-Social] my webcam is on babe!,"Hello, my name is Kelly, I am an 18 year old swimming instructor from Longbeach.  I am intelligent, sexy and discreet. I love to laugh and have fun. Like most young girls, i like to go out with my fri",spam,ham,false_negative (spam -> ham),Logistic Regression (TF-IDF)
+spam_2,Your Membership Newsletter <FLN-Community@FreeLinksNetwork.com>,"Your Membership Exchange, #441","Your Membership Exchange, Issue #441 (August 2, 2001)
+ 
+______________________________________________________
+         Your Membership Daily Exchange
+>>>>>>>>>>> Issue #441 <> 08-02-01 <<<<<<<<<<<<
+Y",spam,ham,false_negative (spam -> ham),Logistic Regression (TF-IDF)
+spam,Tiffany Grey <hnplayboybaby69@site-personals.com>,I just put my webcam on 4u hunnie=),"Wanna see sexually curious teens playing with each other on webcam?
+
+http://www.yourtastybaby.net  <----- our webcam link=)
+
+me and my dorm mate are eating each other out as we speak!
+
+see you soon ba",spam,ham,false_negative (spam -> ham),Logistic Regression (TF-IDF)
+spam_2,suyy@nicee.com,good mtv wmE239PgyETfr9P4nvyEWKJCEkWH,,spam,ham,false_negative (spam -> ham),Logistic Regression (TF-IDF)
+spam_2,"""zoufu@yangg.net"" <zoufu@yangg.net>","��ɽ�������췢,�Ͼ��ؼ۱�������ѡ","黄山旅游天天发  http://www.njchina.com/skttf.htm
+
+南京特价宾馆任你选  http://www.njchina.com/bgmc.htm
+
+贺卡、语音聊天、交友、征婚  http://www.njchina.com/qwltgc.htm
+
+趣味新闻，图文并貌，尽在 http://www.njchina.com
+",spam,ham,false_negative (spam -> ham),Logistic Regression (TF-IDF)
+hard_ham,Word a Day <listmanager@shagmail.com>,"WORD A DAY - ""coruscate"" - 8/20/02","                    *  WORD A DAY  *
+------------------------------------------------------------
+Do you enjoy this publication? Then give your friends a FREE 
+GIFT SUBSCRIPTION. Just click below and ",ham,spam,false_positive (ham -> spam),Logistic Regression (Combined)
+hard_ham,CNET Shopper Newsletter Alerts <Online#3.19820.a5-ydZylz9lGW0yrsRR.1@newsletter.online.com>,Great deals on perfect Summer cameras! (CNET SHOPPER),"Shopper Newsletter: Alerts Live tech help NOW! April's tech award 1 million open jobs News.com: Top CIOs ZDNet: PeopleSoft July 11, 2002 From Computers4Sure Fujifilm FinePix 30i just $245! From buy.co",ham,spam,false_positive (ham -> spam),Logistic Regression (Combined)
+hard_ham,"""David&TomGardner@fooladvisor.com"" <Subscriber@fooladvisor.com>",Cash Flow Doesn't Lie...Even After Today's Rally ,"You are receiving this email because you signed up to 
+receive one of our free reports. If you would prefer 
+not to receive messages of this type, please 
+unsubscribe by following the instructions at ",ham,spam,false_positive (ham -> spam),Logistic Regression (Combined)
+hard_ham,CNET Delivers <Online#3.20341.24-QI_LgZARqA78CdRR.1@newsletter.online.com>,Canon USA Reseller News : July,"CNET Announcement &nbsp; &nbsp; July 18, 2002 Canon USA Reseller News : July July 2002 / Volume 2 No. 5 &nbsp; The Canon USA Reseller News&nbsp; provides resellers with monthly announcements&nbsp;on C",ham,spam,false_positive (ham -> spam),Logistic Regression (Combined)
+hard_ham,All Things New England - Movie Trivia <trivia@allthingsnewengland.com>,This Weeks Movie Trivia Question from All Things New England,"Hello Friends!
+
+We hope you had a pleasant week. Last weeks trivia questions was:
+
+
+What do these 3 films have in common: One Crazy Summer, Whispers in the Dark, Moby Dick? 
+
+Answer: Nantucket Island
+",ham,spam,false_positive (ham -> spam),Logistic Regression (Combined)
+easy_ham_2,Jim Whitehead <ejw@cse.ucsc.edu>,FYI: WSE 2002,"FYI, members of this list might be interested in the 4th International
+Workshop on Web Site Evolution (WSE 2002), being held October 2, 2002, in
+Montreal, Canada.
+
+http://star.itc.it/wse2002/
+
+- Jim
+
+",ham,spam,false_positive (ham -> spam),Logistic Regression (Combined)
+hard_ham,Lockergnome Tech Specialist <subscriptions@lockergnome.com>,[Lockergnome Tech Specialist]  Concrete Geekitude,"http://www.lockergnome.com/issues/techspecialist/20020722.html To unsubscribe, simply reply to this e-mail message. To resubscribe, visit our site: http://www.lockergnome.com/ Don't worry about anythi",ham,spam,false_positive (ham -> spam),Logistic Regression (Combined)
+hard_ham,Gary <gary_winder@optusnet.com.au>,[MLB-WIRELESS] FW: Cisco Wireless LAN Solutions,"Cisco SystemsFYI.
+
+ (I'm not pro or anti Cisco, and I don't sell it. Just passing along info so
+that someone might find it of use)
+
+Regards,
+Gaz
+
+
+
+
+Please feel free to forward this email. Please forw",ham,spam,false_positive (ham -> spam),Logistic Regression (Combined)
+spam,Vip-mail <vip@99-81.com>,未承諾広告※灼熱！出会いの広場,"<事業者>
+氏名:Vip-mail
+突然のメール失礼いたします。
+今後この広告がご不要な方はその旨を
+stop-vip@e-project-web.com
+までお送り下さい。
+
+☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+♪リッチな出会いはVip-mailで♪
+Vip-mailがハイクラスな出会いをプレゼント☆
+携帯3キャリアとPC対応の出会いサイト♪
+今までの出会いサイトに飽きた人!
+出",spam,ham,false_negative (spam -> ham),Logistic Regression (Combined)
+spam_2,PHIL SWANN <swann@TVPredictions.com>,Special Report! TiVo: Now or Never?,"TVPredictions.com Newsletter (August 7, 2002)
+The #1 Newsletter on the Future of TV
+
+Hi Everyone,
+
+First of all, I want to welcome those<br>
+subscribers who are getting this newsletter<br>
+for the fir",spam,ham,false_negative (spam -> ham),Logistic Regression (Combined)
+spam,Venture Reporter <news@risingtidestudios.com>,"Invite: Content Management Summit, Oct. 10th New York City",This email is being sent to zzzz@jmason.org. To unsubscribe please visit http://www.venturereporter.net/myaccount/ . If you ever have a problem removing or changing your email subscriptions on our new,spam,ham,false_negative (spam -> ham),Logistic Regression (Combined)
+spam_2,"""Ms.Huang (Sales Manager)"" <motorcycle@qinghecq.com>",China Motorcycle,"Dear Sir
+We fetch your name by internet.
+This month, our group had set up one JV with Korean Hyosung Motors & Machinery Inc
+Our company produces and distributes various whole motorcycle units (displac",spam,ham,false_negative (spam -> ham),Logistic Regression (Combined)
+spam_2,Steve Down <mailroom@speededelivery.com>,Fw: The Gold Buddha,"In 1957, a monastery in Thailand was being relocated and a group of monks
+was put in charge of moving a giant clay Buddha. In the midst of the move
+one of the monks noticed a crack in the Buddha. Conc",spam,ham,false_negative (spam -> ham),Logistic Regression (Combined)
+spam_2,Important Joke <reply-56446664-6@william.free4all.com>,Important,,spam,ham,false_negative (spam -> ham),Logistic Regression (Combined)
+spam_2,your99@many.com,good friend nUYiIFa3s19FyqZIEEC3lLvT,,spam,ham,false_negative (spam -> ham),Logistic Regression (Combined)
+spam,Kelly Carpelli <mbnxkelly@site-personals.com>,[ILUG-Social] my webcam is on babe!,"Hello, my name is Kelly, I am an 18 year old swimming instructor from Longbeach.  I am intelligent, sexy and discreet. I love to laugh and have fun. Like most young girls, i like to go out with my fri",spam,ham,false_negative (spam -> ham),Logistic Regression (Combined)
+hard_ham,"""David&TomGardner@fooladvisor.com"" <Subscriber@fooladvisor.com>",Cash Flow Doesn't Lie...Even After Today's Rally ,"You are receiving this email because you signed up to 
+receive one of our free reports. If you would prefer 
+not to receive messages of this type, please 
+unsubscribe by following the instructions at ",ham,spam,false_positive (ham -> spam),XGBoost (Combined)
+hard_ham,All Things New England - Movie Trivia <trivia@allthingsnewengland.com>,This Weeks Movie Trivia Question from All Things New England,"Hello Friends!
+
+We hope you had a pleasant week. Last weeks trivia questions was:
+
+
+What do these 3 films have in common: One Crazy Summer, Whispers in the Dark, Moby Dick? 
+
+Answer: Nantucket Island
+",ham,spam,false_positive (ham -> spam),XGBoost (Combined)
+hard_ham,Gary <gary_winder@optusnet.com.au>,[MLB-WIRELESS] FW: Cisco Wireless LAN Solutions,"Cisco SystemsFYI.
+
+ (I'm not pro or anti Cisco, and I don't sell it. Just passing along info so
+that someone might find it of use)
+
+Regards,
+Gaz
+
+
+
+
+Please feel free to forward this email. Please forw",ham,spam,false_positive (ham -> spam),XGBoost (Combined)
+hard_ham,Netscape <Netscape@dms.netscape.com>,Announcing the New Netscape 7.0 - The Fastest Netscape Browser Ever,"Netscape Valued Customer:
+
+Announcing the NEW Netscape 7.0 Browser!
+Download it now for FREE!
+
+For more information and to download now, click here:
+http://dms-www01.netcenter.com/cgi-bin/gx.cgi/mcp?p",ham,spam,false_positive (ham -> spam),XGBoost (Combined)
+hard_ham,CNET Auctions <Online#3.19725.55-A8YAgb1NX5rYkdRR.1@newsletter.online.com>,Intel 900MHz / 256MB PC-133 / 10X DVD / 20GB PC: Starting Bid $229,Auctions Weekly Newsletter Auctions All CNET T he Web &nbsp; Site Map &nbsp; &#149; &nbsp; Desktops &#149; &nbsp; Notebooks &#149; &nbsp; Components &#149; &nbsp; Software &#149; &nbsp; Input Devices ,ham,spam,false_positive (ham -> spam),XGBoost (Combined)
+hard_ham,Red Hat Network <rhn-admin@rhn.redhat.com>,Red Hat Linux 8.0 now available on Red Hat Network,"Red Hat Linux 8.0 is now available.  Get priority access to the Red Hat
+Linux 8.0 upgrade by subscribing to Red Hat Network Basic service for just
+$60 USD annually.  Get it now:
+ 
+https://rhn.redhat.c",ham,spam,false_positive (ham -> spam),XGBoost (Combined)
+easy_ham_2,Conferences News <confnews@ora-info.ora.com>,O'Reilly Conference Newsletter Update - 071902e,"O'Reilly Open Source Convention
+-From the Frontiers of Research to the Heart of the Enterprise
+
+Sheraton San Diego Hotel and Marina
+July 22-26, 2002 -- San Diego, CA
+http://conferences.oreillynet.com/",ham,spam,false_positive (ham -> spam),XGBoost (Combined)
+hard_ham,CNET Delivers <Online#3.21186.45-m2NUOKj6j6GVpsRR.1@newsletter.online.com>,UBID Auction Alert,"CNET Announcement &nbsp; &nbsp; July 26, 2002 uBid.com uBid helps you save more on your technology purchases. Name your own price auction format lets you buy below wholesale. Our service and prices ha",ham,spam,false_positive (ham -> spam),XGBoost (Combined)
+spam_2,PHIL SWANN <swann@TVPredictions.com>,Special Report! TiVo: Now or Never?,"TVPredictions.com Newsletter (August 7, 2002)
+The #1 Newsletter on the Future of TV
+
+Hi Everyone,
+
+First of all, I want to welcome those<br>
+subscribers who are getting this newsletter<br>
+for the fir",spam,ham,false_negative (spam -> ham),XGBoost (Combined)
+spam,aapaine6088j86@yahoo.com,** You're approved. **,sky Your home refinance loan is approved! To get your approved amount go here . To be excluded from further notices go here . sky 1gate 8844gavJ3-409pgdA8863kbFI0-004ANFc0366l36,spam,ham,false_negative (spam -> ham),XGBoost (Combined)
+spam,Kelly Carpelli <mbnxkelly@site-personals.com>,[ILUG-Social] my webcam is on babe!,"Hello, my name is Kelly, I am an 18 year old swimming instructor from Longbeach.  I am intelligent, sexy and discreet. I love to laugh and have fun. Like most young girls, i like to go out with my fri",spam,ham,false_negative (spam -> ham),XGBoost (Combined)
+spam_2,Your Membership Newsletter <FLN-Community@FreeLinksNetwork.com>,"Your Membership Exchange, #441","Your Membership Exchange, Issue #441 (August 2, 2001)
+ 
+______________________________________________________
+         Your Membership Daily Exchange
+>>>>>>>>>>> Issue #441 <> 08-02-01 <<<<<<<<<<<<
+Y",spam,ham,false_negative (spam -> ham),XGBoost (Combined)
+spam,Tiffany Grey <hnplayboybaby69@site-personals.com>,I just put my webcam on 4u hunnie=),"Wanna see sexually curious teens playing with each other on webcam?
+
+http://www.yourtastybaby.net  <----- our webcam link=)
+
+me and my dorm mate are eating each other out as we speak!
+
+see you soon ba",spam,ham,false_negative (spam -> ham),XGBoost (Combined)
+spam_2,ronald0564c62@yahoo.com,New Internet Service Provider,"Hello:
+
+Are you satisfied with your ISP? Do you have 5 email addresses for you and your family? Do you have 5 MB of personal webspace? How truly unlimited is your access time?
+
+Our internet service pr",spam,ham,false_negative (spam -> ham),XGBoost (Combined)
+spam_2,"""zoufu@yangg.net"" <zoufu@yangg.net>","��ɽ�������췢,�Ͼ��ؼ۱�������ѡ","黄山旅游天天发  http://www.njchina.com/skttf.htm
+
+南京特价宾馆任你选  http://www.njchina.com/bgmc.htm
+
+贺卡、语音聊天、交友、征婚  http://www.njchina.com/qwltgc.htm
+
+趣味新闻，图文并貌，尽在 http://www.njchina.com
+",spam,ham,false_negative (spam -> ham),XGBoost (Combined)
+spam,Vip-mail <vip@99-81.com>,未承諾広告※灼熱！出会いの広場,"<事業者>
+氏名:Vip-mail
+突然のメール失礼いたします。
+今後この広告がご不要な方はその旨を
+stop-vip@e-project-web.com
+までお送り下さい。
+
+☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
+♪リッチな出会いはVip-mailで♪
+Vip-mailがハイクラスな出会いをプレゼント☆
+携帯3キャリアとPC対応の出会いサイト♪
+今までの出会いサイトに飽きた人!
+出",spam,ham,false_negative (spam -> ham),XGBoost (Combined)
