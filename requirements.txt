@@ -8,3 +8,7 @@ scikit-learn
 nltk
 scipy
 xgboost
+joblib
+fastapi
+uvicorn
+python-multipart
